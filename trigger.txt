@@ -1,1 +1,1 @@
-docker.io/haroldli/xiaoya-tvbox:latest registry.cn-shanghai.aliyuncs.com/playops/xiaoya-tvbox:latest
+docker.io/nginx:1.27.0 registry.cn-shanghai.aliyuncs.com/playops/nginx:1.27.0
