@@ -1,1 +1,1 @@
-docker.io/nginx:1.27.0 registry.cn-shanghai.aliyuncs.com/playops/nginx:1.27.0
+docker.io/vaultwarden/server registry.cn-shanghai.aliyuncs.com/playops/vaultwarden
