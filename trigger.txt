@@ -1,1 +1,1 @@
-docker.io/mariadb:10.11 registry.cn-shanghai.aliyuncs.com/playops/mariadb:10.11
+docker.io/ubuntu:22.04 registry.cn-shanghai.aliyuncs.com/playops/ubuntu:22.04
