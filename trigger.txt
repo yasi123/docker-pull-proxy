@@ -1,1 +1,1 @@
-docker.io/ubuntu:22.04 registry.cn-shanghai.aliyuncs.com/playops/ubuntu:22.04
+docker.io/linkease/ddnsto registry.cn-shanghai.aliyuncs.com/playops/ddnsto
