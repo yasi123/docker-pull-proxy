@@ -1,1 +1,1 @@
-docker.io/linkease/ddnsto registry.cn-shanghai.aliyuncs.com/playops/ddnsto
+docker.io/natfrp/natfrp registry.cn-shanghai.aliyuncs.com/playops/natfrp
