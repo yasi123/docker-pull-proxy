@@ -1,1 +1,1 @@
-docker.io/natfrp/natfrp registry.cn-shanghai.aliyuncs.com/playops/natfrp
+docker.io/garethflowers/svn-server registry.cn-shanghai.aliyuncs.com/playops/svn
