@@ -1,1 +1,1 @@
-docker.io/garethflowers/svn-server registry.cn-shanghai.aliyuncs.com/playops/svn
+docker.io/nacos/nacos-server:2.0.3 registry.cn-shanghai.aliyuncs.com/playops/nacos-server:2.0.3
